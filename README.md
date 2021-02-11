@@ -1,4 +1,11 @@
-# LearnOpenCV
+# **_LearnOpenCV_**
 
-- data structure and painting
-- deal with images
+---
+
+## 1. **basic core**
+
+- matrix class
+- Fourier transform
+- XML YAML file input output
+
+## 2. **enhanced core**
