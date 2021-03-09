@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+string:
+   - jpg
+   - hello
+   - str
+   - justin
+hero:
+   parker: spider man
+   ironman: "i don\'t know"
+framecount: 5
+hello: world
